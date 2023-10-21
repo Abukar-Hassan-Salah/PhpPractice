@@ -8,6 +8,7 @@
 <body>
     <H1>Chapter 4 Arrays in PHP</H1>
     <?php
+    // 
         $a = array ("Cabdiqaadir Maxamed Xasan", 22, "Hodan, Zone K", "0716798500", "JUST", false);
         // echo ("<pre>");
         // print_r ($a);
